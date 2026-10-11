@@ -1,0 +1,40 @@
+station_id,state,city,station_name,source_station_id
+delhi_alipur_delhi_dpcc,Delhi,Delhi,Alipur Delhi DPCC,site_115
+delhi_anand_vihar_delhi_dpcc,Delhi,Delhi,Anand Vihar Delhi DPCC,site_115
+delhi_ashok_vihar_delhi_dpcc,Delhi,Delhi,Ashok Vihar Delhi DPCC,site_115
+delhi_aya_nagar_delhi_imd,Delhi,Delhi,Aya Nagar Delhi IMD,site_115
+delhi_bawana_delhi_dpcc,Delhi,Delhi,Bawana Delhi DPCC,site_115
+delhi_burari_crossing_delhi_imd,Delhi,Delhi,Burari Crossing Delhi IMD,site_115
+delhi_crri_mathura_road_delhi_imd,Delhi,Delhi,CRRI Mathura Road Delhi IMD,site_115
+delhi_chandni_chowk_delhi_iitm,Delhi,Delhi,Chandni Chowk Delhi IITM,site_115
+delhi_dtu_delhi_cpcb,Delhi,Delhi,DTU Delhi CPCB,site_115
+delhi_dr_karni_singh_shooting_range_delhi_dpcc,Delhi,Delhi,Dr. Karni Singh Shooting Range Delhi DPCC,site_115
+delhi_dwarka_sector_8_delhi_dpcc,Delhi,Delhi,Dwarka-Sector 8 Delhi DPCC,site_115
+delhi_igi_airport_t3_delhi_imd,Delhi,Delhi,IGI Airport (T3) Delhi IMD,site_115
+delhi_ihbas_dilshad_garden_delhi_cpcb,Delhi,Delhi,IHBAS Dilshad Garden Delhi CPCB,site_115
+delhi_ito_delhi_cpcb,Delhi,Delhi,ITO Delhi CPCB,site_115
+delhi_jahangirpuri_delhi_dpcc,Delhi,Delhi,Jahangirpuri Delhi DPCC,site_115
+delhi_jawaharlal_nehru_stadium_delhi_dpcc,Delhi,Delhi,Jawaharlal Nehru Stadium Delhi DPCC,site_115
+delhi_lodhi_road_delhi_iitm,Delhi,Delhi,Lodhi Road Delhi IITM,site_115
+delhi_lodhi_road_delhi_imd,Delhi,Delhi,Lodhi Road Delhi IMD,site_115
+delhi_major_dhyan_chand_national_stadium_delhi_dpcc,Delhi,Delhi,Major Dhyan Chand National Stadium Delhi DPCC,site_115
+delhi_mandir_marg_delhi_dpcc,Delhi,Delhi,Mandir Marg Delhi DPCC,site_115
+delhi_mundka_delhi_dpcc,Delhi,Delhi,Mundka Delhi DPCC,site_115
+delhi_nsit_dwarka_delhi_cpcb,Delhi,Delhi,NSIT Dwarka Delhi CPCB,site_115
+delhi_najafgarh_delhi_dpcc,Delhi,Delhi,Najafgarh Delhi DPCC,site_115
+delhi_narela_delhi_dpcc,Delhi,Delhi,Narela Delhi DPCC,site_115
+delhi_nehru_nagar_delhi_dpcc,Delhi,Delhi,Nehru Nagar Delhi DPCC,site_115
+delhi_north_campus_du_delhi_imd,Delhi,Delhi,North Campus DU Delhi IMD,site_115
+delhi_okhla_phase_2_delhi_dpcc,Delhi,Delhi,Okhla Phase-2 Delhi DPCC,site_115
+delhi_patparganj_delhi_dpcc,Delhi,Delhi,Patparganj Delhi DPCC,site_115
+delhi_punjabi_bagh_delhi_dpcc,Delhi,Delhi,Punjabi Bagh Delhi DPCC,site_115
+delhi_pusa_delhi_dpcc,Delhi,Delhi,Pusa Delhi DPCC,site_115
+delhi_pusa_delhi_imd,Delhi,Delhi,Pusa Delhi IMD,site_115
+delhi_r_k_puram_delhi_dpcc,Delhi,Delhi,R K Puram Delhi DPCC,site_115
+delhi_rohini_delhi_dpcc,Delhi,Delhi,Rohini Delhi DPCC,site_115
+delhi_shadipur_delhi_cpcb,Delhi,Delhi,Shadipur Delhi CPCB,site_115
+delhi_sirifort_delhi_cpcb,Delhi,Delhi,Sirifort Delhi CPCB,site_115
+delhi_sonia_vihar_delhi_dpcc,Delhi,Delhi,Sonia Vihar Delhi DPCC,site_115
+delhi_sri_aurobindo_marg_delhi_dpcc,Delhi,Delhi,Sri Aurobindo Marg Delhi DPCC,site_115
+delhi_vivek_vihar_delhi_dpcc,Delhi,Delhi,Vivek Vihar Delhi DPCC,site_115
+delhi_wazirpur_delhi_dpcc,Delhi,Delhi,Wazirpur Delhi DPCC,site_115

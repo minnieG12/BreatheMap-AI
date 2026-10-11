@@ -1,0 +1,11 @@
+# Versions installed and used during the local prototype run.
+# Pins keep saved scikit-learn model loading reproducible.
+pandas==2.3.3
+numpy==2.2.6
+requests==2.34.2
+scikit-learn==1.7.2
+streamlit==1.65.0
+plotly==7.1.0
+joblib==1.6.0
+boto3==1.43.111
+python-dotenv==1.2.4

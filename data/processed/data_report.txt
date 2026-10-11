@@ -1,0 +1,16 @@
+BreatheMap AI — Phase 1 Data Report
+====================================
+Source: cpcb-aqi.csv.gz (already downloaded)
+Original source: https://github.com/Vonter/india-cpcb-aqi
+Original source license: ODbL-1.0 (see source repository).
+Start-date filter: data already filtered to 2023-01-01 onward
+Valid station-hour observations exported: 294,667
+Unique station names: 39
+Unique derived station IDs: 39
+Duplicate station-timestamp pairs after cleanup: 0
+AQI range: 1 to 500
+First timestamp: 2023-01-01 00:00:00
+Last timestamp: 2023-12-31 23:00:00
+Station IDs are derived from station_name because the source ID was repeated across multiple station names.
+Note: this is historical AQI, not a live feed. Source time convention is retained without assigning a timezone.
+Do not describe unmeasured locations as observed; spatial estimates require coordinates and separate validation.

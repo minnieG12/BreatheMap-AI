@@ -1,0 +1,50 @@
+# Python environments, bytecode, and test caches
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Secrets and local cloud configuration
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+.aws/
+*credentials*
+*.pem
+*.key
+*.p12
+*.pfx
+
+# Editors and operating systems
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Keep personal event registration material out of the public repository
+*hackathon*ticket*
+*Hackathon*Ticket*
+
+# Source download is reproducible with scripts/download_dataset.py
+# Do not commit the full raw source archive.
+data/raw/*
+!data/raw/.gitkeep
+
+# Keep the artefacts required to run the submitted demo.
+data/processed/*
+!data/processed/delhi_aqi_long.csv
+!data/processed/delhi_station_summary.csv
+!data/processed/data_report.txt
+!data/processed/model_metrics.json
+!data/processed/test_predictions.csv
+# Runtime audit is regenerated when exporting to S3.
+data/processed/latest_forecast_audit.json
+
+# Keep the exact trained model needed by app.py; ignore other experiment outputs.
+models/*
+!models/aqi_forecast_model.joblib
